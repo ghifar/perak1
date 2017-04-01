@@ -1,4 +1,17 @@
 ###################
+PERAK
+###################
+perangkat lunak adminsitrasi keuangan menggunakan framework CI
+<br></br>
+berbagi itu indah.
+<br></br>
+screenshots :
+![Alt text](https://github.com/ghifar/perak1/blob/master/dokumentasi/admin.PNG "Admin")
+![Alt text](https://github.com/ghifar/perak1/blob/master/dokumentasi/dekan.PNG "Dekan")
+![Alt text](https://github.com/ghifar/perak1/blob/master/dokumentasi/dekan.PNG "Kaprodi")
+![Alt text](https://github.com/ghifar/perak1/blob/master/dokumentasi/rektor.PNG "Rektor")
+
+###################
 What is CodeIgniter
 ###################
 
